@@ -1,0 +1,4 @@
+" ./file
+if filereadable(expand('~/.file/lua/init.lua'))
+  lua require('init')
+endif
