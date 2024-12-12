@@ -11,7 +11,8 @@ class White
   def self.magic
     if Dir.exist?(File.expand_path('~/AppData/Local/nvim'))
       puts 'Already have a  folder...do nothing.'
-    else
+  else
+      FileUtils.mkdir(File.expand_path('~/AppData/Local/nvim'))
       myhome = File.expand_path('~/AppData/Local/nvim/init.vim')
       File.open(myhome, 'a:utf-8', perm=0o777) do |f|
       f.puts <<~DOC
