@@ -46,6 +46,7 @@ Plug 'nvim-neotest/nvim-nio'
 Plug 'matsui54/ddc-source-dictionary'
 
 " Make My Plugins.
+Plug 'takkii/spring_load'
 Plug 'takkii/dps-himekuri'
 Plug 'takkii/dps-zella'
 Plug 'takkii/neoruby-debugger'
