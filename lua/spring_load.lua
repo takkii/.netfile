@@ -2,8 +2,8 @@
 
 vim.cmd [[
 
-if filereadable(expand('~/ddc_spring_load/autoload/spring_load.vim'))
-  source ~/ddc_spring_load/autoload/spring_load.vim
+if filereadable(expand('~/.neovim/plugged/spring_load/autoload/spring_load.vim'))
+  source ~/.neovim/plugged/spring_load/autoload/spring_load.vim
 endif
 
 ]]
