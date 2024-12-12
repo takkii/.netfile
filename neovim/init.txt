@@ -1,4 +1,4 @@
 " ./file
-if filereadable(expand('~/.file/lua/init.lua'))
+if filereadable(expand('~/.neovim/plugged/.netfile/lua/init.lua'))
   lua require('init')
 endif
