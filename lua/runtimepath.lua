@@ -1,6 +1,8 @@
--- runtimepath
+-- set runtimepath prototype project
 
 vim.cmd [[
-  set runtimepath+=~/defx-icons-ver.takkii
-  set runtimepath+=~/ddc_vim
+  " use Defx custom project
+  " set runtimepath+=~/defx-icons-ver.takkii
+  " other neovim project
+  " set runtimepath+=~/
 ]]
