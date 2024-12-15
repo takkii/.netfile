@@ -2,4 +2,4 @@
 
 ![myenv](https://github.com/takkii/.netfile/blob/main/images/myenv.gif)
 
-_windows .file settings._
+_windows [.file](https://github.com/takkii/.netfile/wiki/japan) settings._
