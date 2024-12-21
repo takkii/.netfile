@@ -25,6 +25,7 @@ Plug 'neovim/nvim-lspconfig'
 Plug 'uga-rosa/ddc-nvim-lsp-setup'
 Plug 'williamboman/mason.nvim'
 Plug 'williamboman/mason-lspconfig.nvim'
+Plug 'github/copilot.vim'
 
 " appearance
 Plug 'itchyny/lightline.vim'
