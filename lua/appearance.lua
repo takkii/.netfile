@@ -17,7 +17,7 @@ vim.cmd [[
   set wildmenu
   set wildmode=list:full
   set laststatus=2
-  set guifont=Source\ Code\ Pro\ Semibold\:h11:sb
+  set guifont=HackGen35\ Console\ NF:h9:sb
   set backspace=indent,eol,start
   set encoding=utf-8
 
