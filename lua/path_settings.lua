@@ -156,3 +156,5 @@ vim.g['python3_host_skip_check'] = 1
 vim.g['denops_disable_version_check'] = 1
 
 end
+
+collectgarbage()

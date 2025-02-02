@@ -56,3 +56,5 @@ Plug 'takkii/neoruby-debugger'
 call plug#end()
 
 ]]
+
+collectgarbage()

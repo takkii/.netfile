@@ -78,3 +78,5 @@ mason_lspconfig.setup_handlers({
 })
 
 -- Lua Settings-End.
+
+collectgarbage()

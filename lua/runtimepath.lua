@@ -4,3 +4,5 @@ vim.cmd [[
   " other neovim project
   " set runtimepath+=~/
 ]]
+
+collectgarbage()

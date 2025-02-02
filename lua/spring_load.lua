@@ -7,3 +7,5 @@ if filereadable(expand('~/.neovim/plugged/spring_load/autoload/spring_load.vim')
 endif
 
 ]]
+
+collectgarbage()

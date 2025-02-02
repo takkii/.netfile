@@ -8,3 +8,5 @@ require('himekuri')
 require('path_settings')
 require('settings')
 require('appearance')
+
+collectgarbage()
