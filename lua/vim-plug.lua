@@ -47,10 +47,11 @@ Plug 'nvim-neotest/nvim-nio'
 Plug 'matsui54/ddc-source-dictionary'
 
 " Make My Plugins
-Plug 'takkii/spring_load'
+Plug 'takkii/.netfile'
 Plug 'takkii/dps-himekuri'
 Plug 'takkii/dps-zella'
 Plug 'takkii/neoruby-debugger'
+Plug 'takkii/spring_load'
 
 " Initialize plugin system
 call plug#end()
