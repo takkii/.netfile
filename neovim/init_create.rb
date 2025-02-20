@@ -17,7 +17,7 @@ class White
       File.open(myhome, 'a:utf-8', perm=0o777) do |f|
       f.puts <<~DOC
 " .netfile
-if filereadable(expand('~/.netfile/lua/init.lua'))
+if filereadable(expand('~/.neovim/plugged/.netfile/lua/init.lua'))
   lua require('init')
 endif
       DOC
