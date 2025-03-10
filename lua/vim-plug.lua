@@ -45,6 +45,7 @@ Plug 'nvim-neotest/nvim-nio'
 
 " Dict
 Plug 'matsui54/ddc-source-dictionary'
+Plug 'takkii/ruby-dict'
 
 " Make My Plugins
 Plug 'takkii/.netfile'
